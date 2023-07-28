@@ -13,7 +13,7 @@ class Techs extends Component {
         return (
             <div id = "techs">
                 <div className=' flex flex-col w-full max-w-[1920px]  py-16 bg-[#9765D8] '>
-                    <h2 className="font-aqum_2 text-white text-2xl lg:text-5xl text-center">Что мы предлогаем</h2>
+                    <h2 className="font-aqum_2 text-white text-2xl lg:text-5xl text-center">Что мы предлагаем</h2>
                 </div>
                 <div className=' max-w-[1920px]  grid lg:grid-cols-3 gap-8 py-16 bg-[#9765D8] lg:px-32'>
                     <div className='  bg-gray-100 shadow-xl flex flex-col p-4 md:my-0 my-8 rounded-lg hover:scale-105 duration-300'>

@@ -24,7 +24,7 @@ const Hero = () => {
                         loop
                     />
                 </div>
-                <p className='md:text-2xl text-xl font-aqum_2 text-gray-400 select-none '>Единное цифровое пространство для ваших достижений</p>
+                <p className='md:text-2xl text-xl font-aqum_2 text-gray-400 select-none '>Единое цифровое пространство для ваших достижений</p>
                 <button className='bg-[#9762DC] w-[200px] rounded-md font-aqum_2 my-6 mx-auto py-3 text-white hover:bg-[#C04764] transition-all duration-500 ' onClick= {console.log("click")}>
                     <Link  to="contacts" spy={true} smooth={true} offset={50} duration={500}>
                         Принять участие в тестировании
